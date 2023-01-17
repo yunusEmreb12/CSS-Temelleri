@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#container{
+    border: deeppink solid 3px;
+    width: 90%;
+    margin: auto;
+}
+#logo{
+    border: springgreen dashed 1px;
+    width: 100%;
+    height: 50px;
+}
+#anamenu{
+    border: firebrick dashed 1px;
+    width: 100%;
+    height: 50px;
+    background-color: greenyellow;
+}
+#icerik{
+    border: gold dotted 1px;
+    width: 70%;
+    min-height: 500px;
+    background-color: grey;
+    float: left;
+}
+#yanmenu{
+    border: greenyellow solid 1px;
+    width: 30%;
+    min-height: 500px;
+    background-color: indianred;
+    float: left;
+}
+#altmenu{
+    border: indigo dashed 1px;
+    width: 100%;
+    height: 50px;
+    background-color: ivory;
+    float: left;
+}
